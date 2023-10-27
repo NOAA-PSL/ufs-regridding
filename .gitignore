@@ -1,3 +1,11 @@
+## Custom ignores
+output*.txt
+*.swp
+*.png
+
+## Singularity ignores
+*.sif
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
